@@ -13,5 +13,4 @@ To better support the project's growth and its professional structure, all repos
 ### 🛠 For Users and Contributors
 If you have a local clone of the repository, GitHub will automatically redirect your requests. However, we highly recommend updating your remote URL to avoid any issues:
 
-```bash
-git remote set-url origin [https://github.com/nullptrlabs/pgmodeler.git](https://github.com/nullptrlabs/pgmodeler.git)
+```bash git remote set-url origin https://github.com/nullptrlabs/pgmodeler.git```
